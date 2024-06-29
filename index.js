@@ -35,7 +35,7 @@ app.post("/sign_up",(req,res) => {
             throw err;
         }
         console.log("Record Inserted Succesfully");
-    })
+    });
     return res.redirect('signup_successful.html');
 })
 
