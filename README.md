@@ -46,7 +46,7 @@ This project has been an incredible learning experience, allowing me to apply my
 
 ## Usage
 
-1. Open your web browser and navigate to `http://localhost:3000` to access the registration form.
+1. Open your web browser and navigate to `http://localhost:8080` to access the registration form.
 2. Fill out the form with the required information and submit.
 3. The form data will be securely stored in the MongoDB database.
 
