@@ -2,9 +2,7 @@
 
 ## Overview
 
-I am thrilled to announce that I have successfully developed a Registration Form using HTML, CSS, Node.js, and MongoDB. This marks the completion of my 1st task as a web development intern at Bharat Intern.
-
-This project has been an incredible learning experience, allowing me to apply my skills in backend and database management, and contribute to creating a functional and user-friendly registration system.
+I am thrilled to announce that I have successfully developed a Registration Form using HTML, CSS, Node.js, and MongoDB. This project has been an incredible learning experience, allowing me to apply my skills in backend and database management, and contribute to creating a functional and user-friendly registration system.
 
 ## Project Features
 
@@ -49,7 +47,3 @@ This project has been an incredible learning experience, allowing me to apply my
 1. Open your web browser and navigate to `http://localhost:8080` to access the registration form.
 2. Fill out the form with the required information and submit.
 3. The form data will be securely stored in the MongoDB database.
-
-## Acknowledgements
-
-- Thanks to Bharat Intern for providing the opportunity to work on this project during my web development internship.
