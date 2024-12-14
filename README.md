@@ -23,11 +23,11 @@ I am thrilled to announce that I have successfully developed a Registration Form
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pranav-gujar/BharatIntern_RegistrationForm.git
+    git clone https://github.com/pranav-gujar/Registration-Form
     ```
 2. Navigate to the project directory:
     ```bash
-    cd BharatIntern_RegistrationForm
+    cd Registration-Form
     ```
 3. Install the necessary dependencies:
     ```bash
