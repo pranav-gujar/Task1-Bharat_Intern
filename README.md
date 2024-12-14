@@ -23,7 +23,7 @@ I am thrilled to announce that I have successfully developed a Registration Form
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pranav-gujar/Registration-Form
+    git clone https://github.com/pranav-gujar/Registration-Form.git
     ```
 2. Navigate to the project directory:
     ```bash
